@@ -18,7 +18,7 @@ This is a simple bash script to run after a fresh Ubuntu GNOME install. It will 
 - Ubuntu restricted addons/extras
 - VirtualBox
 - VLC
-- Atom
+- Atom (with PPA)
 
 ## Removed packages:
 - Aisleriot Solitaire
