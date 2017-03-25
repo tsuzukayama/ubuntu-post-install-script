@@ -1,5 +1,7 @@
 # Ubuntu Post Install Bash Script
 
+(Fork of the [bash script](https://github.com/pitalig/ubuntu-post-install-script) created by [pitalig](https://github.com/pitalig), with a few personal additions)
+
 This is a simple bash script to run after a fresh Ubuntu GNOME install. It will add/remove some PPAs and packages.
 
 ## Installed packages:
@@ -16,6 +18,7 @@ This is a simple bash script to run after a fresh Ubuntu GNOME install. It will 
 - Ubuntu restricted addons/extras
 - VirtualBox
 - VLC
+- Atom
 
 ## Removed packages:
 - Aisleriot Solitaire
